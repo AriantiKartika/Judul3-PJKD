@@ -11,6 +11,7 @@ Repository ini berisi tugas simulasi jaringan komputer menggunakan **Cisco Packe
 ## File Project
 
 * `ta 3.pkt`: File simulasi Cisco Packet Tracer (Source file).
+* Tautan video youtube: https://youtu.be/hwpKl1MdQuU 
 
 ## 🛠¸ Topologi Jaringan
 
